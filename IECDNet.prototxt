@@ -1,4 +1,4 @@
-name: "DdfNet"
+name: "IECDNet"
 layer {
   name: "data"
   type: "Data"
